@@ -1,0 +1,45 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Fri Nov 24 16:15:28 2023
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk" LOCATE = SITE "B8" LEVEL 1;
+COMP "b<0>" LOCATE = SITE "U5" LEVEL 1;
+COMP "b<1>" LOCATE = SITE "U4" LEVEL 1;
+COMP "g<0>" LOCATE = SITE "N8" LEVEL 1;
+COMP "g<1>" LOCATE = SITE "P8" LEVEL 1;
+COMP "g<2>" LOCATE = SITE "P6" LEVEL 1;
+COMP "s<0>" LOCATE = SITE "F15" LEVEL 1;
+COMP "s<1>" LOCATE = SITE "C18" LEVEL 1;
+COMP "s<2>" LOCATE = SITE "H17" LEVEL 1;
+COMP "s<3>" LOCATE = SITE "F17" LEVEL 1;
+COMP "y<0>" LOCATE = SITE "L18" LEVEL 1;
+COMP "y<1>" LOCATE = SITE "F18" LEVEL 1;
+COMP "y<2>" LOCATE = SITE "D17" LEVEL 1;
+COMP "y<3>" LOCATE = SITE "D16" LEVEL 1;
+COMP "y<4>" LOCATE = SITE "G14" LEVEL 1;
+COMP "y<5>" LOCATE = SITE "J17" LEVEL 1;
+COMP "y<6>" LOCATE = SITE "H14" LEVEL 1;
+COMP "y<7>" LOCATE = SITE "C17" LEVEL 1;
+COMP "diff<0>" LOCATE = SITE "K18" LEVEL 1;
+COMP "diff<1>" LOCATE = SITE "K17" LEVEL 1;
+COMP "reset" LOCATE = SITE "H18" LEVEL 1;
+COMP "start" LOCATE = SITE "G18" LEVEL 1;
+PIN start_pin<0> = BEL "start" PINNAME PAD;
+PIN "start_pin<0>" CLOCK_DEDICATED_ROUTE = FALSE;
+COMP "button<0>" LOCATE = SITE "B18" LEVEL 1;
+COMP "button<1>" LOCATE = SITE "D18" LEVEL 1;
+COMP "button<2>" LOCATE = SITE "E18" LEVEL 1;
+COMP "button<3>" LOCATE = SITE "H13" LEVEL 1;
+COMP "red<0>" LOCATE = SITE "R9" LEVEL 1;
+COMP "red<1>" LOCATE = SITE "T8" LEVEL 1;
+COMP "red<2>" LOCATE = SITE "R8" LEVEL 1;
+COMP "h_sync" LOCATE = SITE "T4" LEVEL 1;
+COMP "v_sync" LOCATE = SITE "U3" LEVEL 1;
+COMP "leds<0>" LOCATE = SITE "J14" LEVEL 1;
+COMP "leds<1>" LOCATE = SITE "J15" LEVEL 1;
+COMP "leds<2>" LOCATE = SITE "K15" LEVEL 1;
+COMP "leds<3>" LOCATE = SITE "K14" LEVEL 1;
+NET "clk_BUFGP/IBUFG" BEL "clk_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

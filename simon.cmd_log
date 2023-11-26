@@ -1,0 +1,204 @@
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+xst -intstyle ise -ifn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.xst" -ofn "C:/Users/user/OneDrive - ufpr.br/2023_2/MICROELETRONICA/simon/simon.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s500e-fg320-5 "simon.ngc" simon.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o simon_map.ncd simon.ngd simon.pcf 
+par -w -intstyle ise -ol high -t 1 simon_map.ncd simon.ncd simon.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml simon.twx simon.ncd -o simon.twr simon.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f simon.ut simon.ncd 

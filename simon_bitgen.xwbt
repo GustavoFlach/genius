@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\user\OneDrive - ufpr.br\2023_2\MICROELETRONICA\simon\simon.ncd
+OUTFILE=C:\Users\user\OneDrive - ufpr.br\2023_2\MICROELETRONICA\simon\simon.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=C:\Users\user\OneDrive - ufpr.br\2023_2\MICROELETRONICA\simon
+LICENSE=WebPack
+USER_INFO=212798568_0_0_057

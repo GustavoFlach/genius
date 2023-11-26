@@ -1,0 +1,7 @@
+vhdl work "pacote.vhd"
+vhdl work "vga_driver.vhd"
+vhdl work "Timer.vhd"
+vhdl work "ssd_driver.vhd"
+vhdl work "slider.vhd"
+vhdl work "frequency_divider.vhd"
+vhdl work "simon.vhd"

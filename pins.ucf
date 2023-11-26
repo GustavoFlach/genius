@@ -1,0 +1,69 @@
+NET "LEDs(0)" LOC = "J14";
+NET "LEDs(1)" LOC = "J15";
+NET "LEDs(2)" LOC = "K15";
+NET "LEDs(3)" LOC = "K14";
+
+
+net "y(0)" loc = "L18";
+net "y(1)" loc = "F18";
+net "y(2)" loc = "D17";
+net "y(3)" loc = "D16";
+net "y(4)" loc = "G14";
+net "y(5)" loc = "J17";
+net "y(6)" loc = "H14";
+net "y(7)" loc = "C17";
+net "s(0)" loc = "F15";
+net "s(1)" loc = "C18";
+net "s(2)" loc = "H17";
+net "s(3)" loc = "F17";
+net "red(2)" loc = "R8";
+net "red(1)" loc = "T8";
+net "red(0)" loc = "R9";
+net "g(2)" loc = "P6";
+net "g(1)" loc = "P8";
+net "g(0)" loc = "N8";
+net "b(1)" loc = "U4";
+net "b(0)" loc = "U5";
+net "h_sync" loc = "T4";
+net "v_sync" loc = "U3";
+#net "green" loc = "J14";
+
+
+NET "start" CLOCK_DEDICATED_ROUTE = FALSE;
+#NET "display(6)" LOC = "L18";
+#NET "display(5)" LOC = "F18";
+#NET "display(4)" LOC = "D17";
+#NET "display(3)" LOC = "D16";
+#NET "display(2)" LOC = "G14";
+#NET "display(1)" LOC = "J17";
+#NET "display(0)" LOC = "H14";
+#
+#NET "anode(0)" LOC = "F17";
+#NET "anode(1)" LOC = "H17";
+#NET "anode(2)" LOC = "C18";
+#NET "anode(3)" LOC = "F15";
+
+#NET "red(0)" LOC = "R9";
+#NET "red(1)" LOC = "T8";
+#NET "red(2)" LOC = "R8";
+#NET "green(0)" LOC = "N8";
+#NET "green(1)" LOC = "P8";
+#NET "green(2)" LOC = "P6";
+#NET "blue(0)" LOC = "U5";
+#NET "blue(1)" LOC = "U4";
+#
+#NET "h_sync" LOC = "T4";
+#NET "v_sync" LOC = "U3";
+
+NET "clk" LOC = "B8";
+
+NET "diff(0)" LOC = "K18";
+NET "diff(1)" LOC = "K17";
+
+NET "button(0)" LOC = "B18";
+NET "button(1)" LOC = "D18";
+NET "button(2)" LOC = "E18";
+NET "button(3)" LOC = "H13";
+
+NET "start" LOC = "G18";
+NET "reset" LOC = "H18";
